@@ -24,7 +24,7 @@ function workbench(c, a) {
     "focusBorder": c.accent,
     "foreground": c.fg,
     "errorForeground": "#ff5c66",
-    "descriptionForeground": c.comment,
+    "descriptionForeground": c.muted || c.comment,
     "icon.foreground": c.fg,
     // editor
     "editor.background": c.bg,

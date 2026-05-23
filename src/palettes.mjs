@@ -22,7 +22,7 @@ export const palettes = [
     type: "dark",
     colors: {
       bg: "#0c1018", bgDark: "#080c13", bgLight: "#141a24",
-      fg: "#c2ccd6", comment: "#4a5568",
+      fg: "#c2ccd6", comment: "#4a5568", muted: "#6b7787",
       keyword: "#d86575", string: "#5aa6b0", func: "#6e96c4",
       cls: "#82b3c0", prop: "#d86575", num: "#c0ac84",
       accent: "#d86575", selection: "#22303c", cursor: "#fcee0a",
