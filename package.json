@@ -6,21 +6,63 @@
   "publisher": "REPLACE_WITH_PUBLISHER_ID",
   "license": "MIT",
   "type": "module",
-  "engines": { "vscode": "^1.70.0" },
-  "categories": ["Themes"],
-  "keywords": ["cyberpunk", "neon", "dark", "theme", "synthwave", "night city", "arasaka", "samurai", "japantown"],
-  "galleryBanner": { "color": "#090d14", "theme": "dark" },
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "cyberpunk",
+    "neon",
+    "dark",
+    "theme",
+    "synthwave",
+    "night city",
+    "arasaka",
+    "samurai",
+    "japantown"
+  ],
+  "galleryBanner": {
+    "color": "#090d14",
+    "theme": "dark"
+  },
+  "icon": "assets/icon.png",
   "scripts": {
     "build": "node src/build.mjs",
+    "icon": "node scripts/render-icon.mjs",
     "test": "node --test"
   },
   "contributes": {
     "themes": [
-      { "label": "Cyberpunk Night City: Arasaka Corpo", "uiTheme": "vs-dark", "path": "./themes/arasaka-corpo.json" },
-      { "label": "Cyberpunk Night City: Samurai", "uiTheme": "vs-dark", "path": "./themes/samurai.json" },
-      { "label": "Cyberpunk Night City: Arasaka Dim", "uiTheme": "vs-dark", "path": "./themes/arasaka-dim.json" },
-      { "label": "Cyberpunk Night City: Samurai Dim", "uiTheme": "vs-dark", "path": "./themes/samurai-dim.json" },
-      { "label": "Cyberpunk Night City: Japantown", "uiTheme": "vs-dark", "path": "./themes/japantown.json" }
+      {
+        "label": "Cyberpunk Night City: Arasaka Corpo",
+        "uiTheme": "vs-dark",
+        "path": "./themes/arasaka-corpo.json"
+      },
+      {
+        "label": "Cyberpunk Night City: Samurai",
+        "uiTheme": "vs-dark",
+        "path": "./themes/samurai.json"
+      },
+      {
+        "label": "Cyberpunk Night City: Arasaka Dim",
+        "uiTheme": "vs-dark",
+        "path": "./themes/arasaka-dim.json"
+      },
+      {
+        "label": "Cyberpunk Night City: Samurai Dim",
+        "uiTheme": "vs-dark",
+        "path": "./themes/samurai-dim.json"
+      },
+      {
+        "label": "Cyberpunk Night City: Japantown",
+        "uiTheme": "vs-dark",
+        "path": "./themes/japantown.json"
+      }
     ]
+  },
+  "devDependencies": {
+    "sharp": "^0.34.5"
   }
 }
