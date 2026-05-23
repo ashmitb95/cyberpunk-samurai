@@ -1,0 +1,11 @@
+.git/
+.gitignore
+.superpowers/
+docs/
+src/
+test/
+scripts/
+examples/
+assets/icon.svg
+node_modules/
+*.vsix
