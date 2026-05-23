@@ -7,6 +7,7 @@ test/
 scripts/
 examples/
 assets/icon.svg
+assets/screenshots/
 node_modules/
 package-lock.json
 *.vsix

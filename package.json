@@ -2,7 +2,7 @@
   "name": "cyberpunk-samurai",
   "displayName": "Cyberpunk Samurai",
   "description": "Five dark Cyberpunk/Night City themes — Arasaka, Samurai, Japantown — built on One Dark comfort with neon accents.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "publisher": "SingularityInc",
   "license": "MIT",
   "repository": {
@@ -67,6 +67,7 @@
     ]
   },
   "devDependencies": {
-    "sharp": "^0.34.5"
+    "sharp": "^0.34.5",
+    "shiki": "^4.1.0"
   }
 }
