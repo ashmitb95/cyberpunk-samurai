@@ -1,8 +1,8 @@
 {
   "name": "cyberpunk-samurai",
   "displayName": "Cyberpunk Samurai Theme",
-  "description": "Five dark Cyberpunk/Night City themes — Arasaka, Samurai, Japantown — built on One Dark comfort with neon accents.",
-  "version": "0.1.4",
+  "description": "Cyberpunk 2077 / Night City themes — Arasaka, Samurai, Tyger Claw, Trauma Team, Maelstrom — built on One Dark comfort with neon accents.",
+  "version": "0.2.0",
   "publisher": "SingularityInc",
   "license": "MIT",
   "repository": {
@@ -18,6 +18,7 @@
   ],
   "keywords": [
     "cyberpunk",
+    "2077",
     "neon",
     "dark",
     "theme",
@@ -25,7 +26,9 @@
     "night city",
     "arasaka",
     "samurai",
-    "japantown"
+    "tyger claw",
+    "trauma team",
+    "maelstrom"
   ],
   "galleryBanner": {
     "color": "#090d14",
@@ -60,9 +63,29 @@
         "path": "./themes/samurai-dim.json"
       },
       {
-        "label": "Cyberpunk Samurai: Japantown",
+        "label": "Cyberpunk Samurai: Tyger Claw",
         "uiTheme": "vs-dark",
-        "path": "./themes/japantown.json"
+        "path": "./themes/tyger-claw.json"
+      },
+      {
+        "label": "Cyberpunk Samurai: Trauma Team",
+        "uiTheme": "vs-dark",
+        "path": "./themes/trauma-team.json"
+      },
+      {
+        "label": "Cyberpunk Samurai: Trauma Team Holo",
+        "uiTheme": "vs-dark",
+        "path": "./themes/trauma-team-holo.json"
+      },
+      {
+        "label": "Cyberpunk Samurai: Maelstrom",
+        "uiTheme": "vs-dark",
+        "path": "./themes/maelstrom.json"
+      },
+      {
+        "label": "Cyberpunk Samurai: Maelstrom Chrome",
+        "uiTheme": "vs-dark",
+        "path": "./themes/maelstrom-chrome.json"
       }
     ]
   },

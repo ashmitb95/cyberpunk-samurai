@@ -28,8 +28,8 @@
     "editorBracketHighlight.foreground2": "#4eaebd",
     "editorBracketHighlight.foreground3": "#a8c050",
     "editorBracketHighlight.foreground4": "#d97aa6",
-    "editorBracketHighlight.foreground5": "#d95f7a",
-    "editorBracketHighlight.foreground6": "#d95f7a",
+    "editorBracketHighlight.foreground5": "#c9aa48",
+    "editorBracketHighlight.foreground6": "#c9aa48",
     "editorBracketHighlight.unexpectedBracket.foreground": "#ff5c66",
     "editorGutter.modifiedBackground": "#4eaebd",
     "editorGutter.addedBackground": "#a8c050",
@@ -217,7 +217,7 @@
         "support.type.property-name"
       ],
       "settings": {
-        "foreground": "#d95f7a"
+        "foreground": "#c9aa48"
       }
     },
     {
@@ -228,7 +228,7 @@
         "constant.other"
       ],
       "settings": {
-        "foreground": "#d95f7a"
+        "foreground": "#c9aa48"
       }
     },
     {
@@ -314,11 +314,11 @@
     "macro": "#4eaebd",
     "variable": "#cfccb4",
     "parameter": "#cfccb4",
-    "property": "#d95f7a",
-    "enumMember": "#d95f7a",
+    "property": "#c9aa48",
+    "enumMember": "#c9aa48",
     "keyword": "#d6c93a",
     "string": "#a8c050",
-    "number": "#d95f7a",
+    "number": "#c9aa48",
     "comment": {
       "foreground": "#635f47",
       "fontStyle": "italic"

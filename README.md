@@ -22,6 +22,16 @@ Then: `Ctrl/Cmd+K Ctrl/Cmd+T` → pick a "Cyberpunk Samurai" theme.
 }
 ```
 
+## Themes
+
+Nine dark themes across five families:
+
+- **Arasaka** — Arasaka Corpo, Arasaka Dim
+- **Samurai** — Samurai, Samurai Dim
+- **Tyger Claw**
+- **Trauma Team** — Trauma Team, Trauma Team Holo *(new)* — petrol-teal medbay, coral-red alerts
+- **Maelstrom** — Maelstrom, Maelstrom Chrome *(new)* — blood, rust, and cold chrome
+
 ## Screenshots
 
 All shots show the same TypeScript file ([`examples/showcase.ts`](examples/showcase.ts)) so you can compare the palettes directly.
@@ -38,5 +48,17 @@ All shots show the same TypeScript file ([`examples/showcase.ts`](examples/showc
 ### Samurai Dim
 ![Cyberpunk Samurai — Samurai Dim](https://raw.githubusercontent.com/ashmitb95/cyberpunk-samurai/master/assets/screenshots/samurai-dim.png)
 
-### Japantown
-![Cyberpunk Samurai — Japantown](https://raw.githubusercontent.com/ashmitb95/cyberpunk-samurai/master/assets/screenshots/japantown.png)
+### Tyger Claw
+![Cyberpunk Samurai — Tyger Claw](https://raw.githubusercontent.com/ashmitb95/cyberpunk-samurai/master/assets/screenshots/tyger-claw.png)
+
+### Trauma Team
+![Cyberpunk Samurai — Trauma Team](https://raw.githubusercontent.com/ashmitb95/cyberpunk-samurai/master/assets/screenshots/trauma-team.png)
+
+### Trauma Team Holo
+![Cyberpunk Samurai — Trauma Team Holo](https://raw.githubusercontent.com/ashmitb95/cyberpunk-samurai/master/assets/screenshots/trauma-team-holo.png)
+
+### Maelstrom
+![Cyberpunk Samurai — Maelstrom](https://raw.githubusercontent.com/ashmitb95/cyberpunk-samurai/master/assets/screenshots/maelstrom.png)
+
+### Maelstrom Chrome
+![Cyberpunk Samurai — Maelstrom Chrome](https://raw.githubusercontent.com/ashmitb95/cyberpunk-samurai/master/assets/screenshots/maelstrom-chrome.png)

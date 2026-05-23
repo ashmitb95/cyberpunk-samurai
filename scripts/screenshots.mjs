@@ -22,7 +22,11 @@ const THEME_FILES = [
   "samurai.json",
   "arasaka-dim.json",
   "samurai-dim.json",
-  "japantown.json",
+  "tyger-claw.json",
+  "trauma-team.json",
+  "trauma-team-holo.json",
+  "maelstrom.json",
+  "maelstrom-chrome.json",
 ];
 
 // ---- layout (logical px; rasterized @2x) ----

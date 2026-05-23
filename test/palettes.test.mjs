@@ -7,8 +7,8 @@ const HEX = /^#([0-9a-fA-F]{3,4}|[0-9a-fA-F]{6}|[0-9a-fA-F]{8})$/;
 const COLOR_KEYS = ["bg","bgDark","bgLight","fg","comment","keyword","string","func","cls","prop","num","accent","selection","cursor"];
 const ANSI_KEYS = ["red","green","yellow","blue","magenta","cyan"];
 
-test("there are exactly 5 palettes", () => {
-  assert.equal(palettes.length, 5);
+test("there are exactly 9 palettes", () => {
+  assert.equal(palettes.length, 9);
 });
 
 test("slugs are unique", () => {
