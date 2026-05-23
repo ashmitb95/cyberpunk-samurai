@@ -1,13 +1,13 @@
 {
-  "name": "cyberpunk-night-city",
-  "displayName": "Cyberpunk Night City",
+  "name": "cyberpunk-samurai",
+  "displayName": "Cyberpunk Samurai",
   "description": "Five dark Cyberpunk/Night City themes — Arasaka, Samurai, Japantown — built on One Dark comfort with neon accents.",
   "version": "0.1.0",
   "publisher": "SingularityInc",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ashmitb95/cyberpunk-night-city"
+    "url": "https://github.com/ashmitb95/cyberpunk-samurai"
   },
   "type": "module",
   "engines": {
@@ -40,27 +40,27 @@
   "contributes": {
     "themes": [
       {
-        "label": "Cyberpunk Night City: Arasaka Corpo",
+        "label": "Cyberpunk Samurai: Arasaka Corpo",
         "uiTheme": "vs-dark",
         "path": "./themes/arasaka-corpo.json"
       },
       {
-        "label": "Cyberpunk Night City: Samurai",
+        "label": "Cyberpunk Samurai: Samurai",
         "uiTheme": "vs-dark",
         "path": "./themes/samurai.json"
       },
       {
-        "label": "Cyberpunk Night City: Arasaka Dim",
+        "label": "Cyberpunk Samurai: Arasaka Dim",
         "uiTheme": "vs-dark",
         "path": "./themes/arasaka-dim.json"
       },
       {
-        "label": "Cyberpunk Night City: Samurai Dim",
+        "label": "Cyberpunk Samurai: Samurai Dim",
         "uiTheme": "vs-dark",
         "path": "./themes/samurai-dim.json"
       },
       {
-        "label": "Cyberpunk Night City: Japantown",
+        "label": "Cyberpunk Samurai: Japantown",
         "uiTheme": "vs-dark",
         "path": "./themes/japantown.json"
       }

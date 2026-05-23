@@ -1,4 +1,4 @@
-# Cyberpunk Night City
+# Cyberpunk Samurai
 
 Five dark VS Code themes inspired by Night City — built on the comfort of One Dark, with neon accents kept to the chrome so they're easy on the eyes for long sessions.
 
@@ -14,10 +14,10 @@ Five dark VS Code themes inspired by Night City — built on the comfort of One 
 
 ## Install
 
-- **Marketplace:** search "Cyberpunk Night City" in the Extensions view.
-- **From file:** `code --install-extension cyberpunk-night-city-<version>.vsix`
+- **Marketplace:** search "Cyberpunk Samurai" in the Extensions view.
+- **From file:** `code --install-extension cyberpunk-samurai-<version>.vsix`
 
-Then: `Ctrl/Cmd+K Ctrl/Cmd+T` → pick a "Cyberpunk Night City" theme.
+Then: `Ctrl/Cmd+K Ctrl/Cmd+T` → pick a "Cyberpunk Samurai" theme.
 
 ## Recommended settings
 

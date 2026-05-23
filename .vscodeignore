@@ -8,4 +8,5 @@ scripts/
 examples/
 assets/icon.svg
 node_modules/
+package-lock.json
 *.vsix

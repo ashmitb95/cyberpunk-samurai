@@ -8,7 +8,7 @@ const arasaka = palettes.find((p) => p.slug === "arasaka-corpo");
 
 test("buildTheme returns the core theme shape", () => {
   const t = buildTheme(arasaka);
-  assert.equal(t.name, "Cyberpunk Night City: Arasaka Corpo");
+  assert.equal(t.name, "Cyberpunk Samurai: Arasaka Corpo");
   assert.equal(t.type, "dark");
   assert.equal(t.semanticHighlighting, true);
   assert.equal(typeof t.colors, "object");

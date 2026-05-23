@@ -5,7 +5,7 @@
 export const palettes = [
   {
     slug: "arasaka-corpo",
-    label: "Cyberpunk Night City: Arasaka Corpo",
+    label: "Cyberpunk Samurai: Arasaka Corpo",
     type: "dark",
     colors: {
       bg: "#090d14", bgDark: "#06090f", bgLight: "#10151e",
@@ -18,7 +18,7 @@ export const palettes = [
   },
   {
     slug: "arasaka-dim",
-    label: "Cyberpunk Night City: Arasaka Dim",
+    label: "Cyberpunk Samurai: Arasaka Dim",
     type: "dark",
     colors: {
       bg: "#0c1018", bgDark: "#080c13", bgLight: "#141a24",
@@ -31,7 +31,7 @@ export const palettes = [
   },
   {
     slug: "samurai",
-    label: "Cyberpunk Night City: Samurai",
+    label: "Cyberpunk Samurai: Samurai",
     type: "dark",
     colors: {
       bg: "#15120a", bgDark: "#100d07", bgLight: "#1d1910",
@@ -44,7 +44,7 @@ export const palettes = [
   },
   {
     slug: "samurai-dim",
-    label: "Cyberpunk Night City: Samurai Dim",
+    label: "Cyberpunk Samurai: Samurai Dim",
     type: "dark",
     colors: {
       bg: "#17140c", bgDark: "#120f08", bgLight: "#1f1b12",
@@ -57,7 +57,7 @@ export const palettes = [
   },
   {
     slug: "japantown",
-    label: "Cyberpunk Night City: Japantown",
+    label: "Cyberpunk Samurai: Japantown",
     type: "dark",
     colors: {
       bg: "#120e1a", bgDark: "#0d0a14", bgLight: "#1a1524",

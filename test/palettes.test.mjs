@@ -19,7 +19,7 @@ test("slugs are unique", () => {
 test("every palette has required fields and valid hex", () => {
   for (const p of palettes) {
     assert.ok(p.slug, "slug present");
-    assert.match(p.label, /^Cyberpunk Night City: /);
+    assert.match(p.label, /^Cyberpunk Samurai: /);
     assert.equal(p.type, "dark");
     for (const k of COLOR_KEYS) {
       assert.ok(p.colors[k], `${p.slug} missing color ${k}`);
