@@ -3,8 +3,12 @@
   "displayName": "Cyberpunk Night City",
   "description": "Five dark Cyberpunk/Night City themes — Arasaka, Samurai, Japantown — built on One Dark comfort with neon accents.",
   "version": "0.1.0",
-  "publisher": "your-publisher-id",
+  "publisher": "SingularityInc",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ashmitb95/cyberpunk-night-city"
+  },
   "type": "module",
   "engines": {
     "vscode": "^1.70.0"
