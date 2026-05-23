@@ -78,7 +78,7 @@ cursor  #fcee0a
 ## Architecture
 
 ### Components
-- **`package.json`** — extension manifest: `categories: ["Themes"]`, `contributes.themes` (4 entries → `themes/*.json`), `publisher`, `icon`, `galleryBanner`, `keywords`, `repository`, `engines.vscode`.
+- **`package.json`** — extension manifest: `categories: ["Themes"]`, `contributes.themes` (5 entries → `themes/*.json`), `publisher`, `icon`, `galleryBanner`, `keywords`, `repository`, `engines.vscode`.
 - **`src/palettes.mjs`** — exports an array of palette objects (theme meta + the ~15 role colors + a 16-color ANSI terminal map per theme).
 - **`src/template.mjs`** — `buildTheme(palette)` → a complete VS Code theme object: `colors{}` (workbench), `tokenColors[]` (TextMate scopes), `semanticTokenColors{}`. This is the single place the role→key mapping lives.
 - **`src/build.mjs`** — iterates palettes, writes `themes/<slug>.json`. Run via `npm run build`. Plain Node ESM — no TypeScript toolchain.
