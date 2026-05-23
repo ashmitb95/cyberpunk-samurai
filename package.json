@@ -3,7 +3,7 @@
   "displayName": "Cyberpunk Night City",
   "description": "Five dark Cyberpunk/Night City themes — Arasaka, Samurai, Japantown — built on One Dark comfort with neon accents.",
   "version": "0.1.0",
-  "publisher": "REPLACE_WITH_PUBLISHER_ID",
+  "publisher": "your-publisher-id",
   "license": "MIT",
   "type": "module",
   "engines": {
