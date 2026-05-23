@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.1.2
+- Rename display name to "Cyberpunk Samurai Theme".
+
 ## 0.1.1
 - Add showcase screenshots for all five themes to the README.
 
