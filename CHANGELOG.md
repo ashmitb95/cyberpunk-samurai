@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.1.3
+- New icon: the oni mask rendered out of tiny code lines.
+
 ## 0.1.2
 - Rename display name to "Cyberpunk Samurai Theme".
 
