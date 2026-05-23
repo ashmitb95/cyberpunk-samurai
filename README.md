@@ -2,8 +2,6 @@
 
 Five dark VS Code themes inspired by Night City — built on the comfort of One Dark, with neon accents kept to the chrome so they're easy on the eyes for long sessions.
 
-> Unofficial fan-made theme. Not affiliated with, endorsed by, or associated with CD Projekt RED. Uses no game assets.
-
 ## Themes
 
 - **Arasaka Corpo** — clinical, high-contrast: blood-red + crisp white + steel cyan on blue-black.
